@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+  <dict>
+
+    <key>items</key>
+
+    <array>
+
+      <dict>
+
+        <key>assets</key>
+
+        <array>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>software-package</string>
+
+            <key>url</key>
+
+            <string>https://raw.githubusercontent.com/qtzs/ipa/master/rmrb.ipa</string>
+
+
+          </dict>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>full-size-image</string>
+
+            <key>needs-shine</key>
+
+            <true /> <key>url</key><string>https://img.25pp.com/uploadfile/app/icon/20190322/1553239903569386.jpg@140w_140h</string>
+        </dict>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>display-image</string>
+
+            <key>needs-shine</key>
+
+            <true />
+
+            <key>url</key>
+
+
+            <string>https://img.25pp.com/uploadfile/app/icon/20190910/1568087082298281.jpg@140w_140h</string>
+
+
+          </dict>
+
+        </array>
+
+        <key>metadata</key>
+
+        <dict>
+
+          <key>bundle-identifier</key>
+
+          <string>com.QQ.douyin</string>
+
+          <key>bundle-version</key>
+
+          <string>1.0</string>
+
+          <key>kind</key>
+
+          <string>software</string>
+
+          <key>subtitle</key>
+
+          <string>qitao</string>
+
+          <key>title</key>
+
+
+
+          <string>∂∂“Ù∂Ã ”∆µ</string>
+
+
+
+        </dict>
+
+      </dict>
+
+    </array>
+
+  </dict>
+
+</plist>
