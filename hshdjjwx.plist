@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+  <dict>
+
+    <key>items</key>
+
+    <array>
+
+      <dict>
+
+        <key>assets</key>
+
+        <array>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>software-package</string>
+
+            <key>url</key>
+
+            <string>http://bos.pgzs.com/rbreszy/iphone/money/2015/04/14/34bf16ef2dfa446e9332d68d861b0d5c/com.outfit7.talkingginger_2.1_2.1_635646385989148379.ipa</string>
+
+
+          </dict>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>full-size-image</string>
+
+            <key>needs-shine</key>
+
+            <true /> <key>url</key><string>https://img.25pp.com/uploadfile/app/icon/20190831/1567195735176485.jpg@140w_140h</string>
+        </dict>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>display-image</string>
+
+            <key>needs-shine</key>
+
+            <true />
+
+            <key>url</key>
+
+
+            <string>https://gitee.com/qitaocc/photo/raw/master/icon_1ebaf401587d4334949d83fbc118ae8f_175.jpg</string>
+
+
+          </dict>
+
+        </array>
+
+        <key>metadata</key>
+
+        <dict>
+
+          <key>bundle-identifier</key>
+
+          <string>com.QQ.hshdjjwx</string>
+
+          <key>bundle-version</key>
+
+          <string>1.0</string>
+
+          <key>kind</key>
+
+          <string>software</string>
+
+          <key>subtitle</key>
+
+          <string>qitao</string>
+
+          <key>title</key>
+
+
+
+          <string>会说话的金杰(无限金币)</string>
+
+
+
+        </dict>
+
+      </dict>
+
+    </array>
+
+  </dict>
+
+</plist>

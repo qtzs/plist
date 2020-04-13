@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+  <dict>
+
+    <key>items</key>
+
+    <array>
+
+      <dict>
+
+        <key>assets</key>
+
+        <array>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>software-package</string>
+
+            <key>url</key>
+
+            <string>http://bos.pgzs.com/rbreszy/iphone/money/2015/10/20/d5435075f20d48d19ed4d4d8cac1a467/com.ipeaksoft.pitDadGame_2.0_2.0_635809162190928858.ipa</string>
+
+
+          </dict>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>full-size-image</string>
+
+            <key>needs-shine</key>
+
+            <true /> <key>url</key><string>https://img.25pp.com/uploadfile/app/icon/20181206/1544073435751979.jpg@140w_140h</string>
+        </dict>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>display-image</string>
+
+            <key>needs-shine</key>
+
+            <true />
+
+            <key>url</key>
+
+
+            <string>https://gitee.com/qitaocc/photo/raw/master/icon_14460222c86849639a2030b69d689f13_175.jpg</string>
+
+
+          </dict>
+
+        </array>
+
+        <key>metadata</key>
+
+        <dict>
+
+          <key>bundle-identifier</key>
+
+          <string>com.QQ.sszkddyxwx</string>
+
+          <key>bundle-version</key>
+
+          <string>1.0</string>
+
+          <key>kind</key>
+
+          <string>software</string>
+
+          <key>subtitle</key>
+
+          <string>qitao</string>
+
+          <key>title</key>
+
+
+
+          <string>	史上最坑爹的游戏(无限金币)</string>
+
+
+
+        </dict>
+
+      </dict>
+
+    </array>
+
+  </dict>
+
+</plist>

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+
+  <dict>
+
+    <key>items</key>
+
+    <array>
+
+      <dict>
+
+        <key>assets</key>
+
+        <array>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>software-package</string>
+
+            <key>url</key>
+
+            <string>http://download.25pp.com/ipa/2017/02/20/20170220_14628_188790894925.ipa</string>
+
+
+          </dict>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>full-size-image</string>
+
+            <key>needs-shine</key>
+
+            <true /> <key>url</key><string>https://img.25pp.com/uploadfile/app/icon/20190322/1553239903569386.jpg@140w_140h</string>
+        </dict>
+
+          <dict>
+
+            <key>kind</key>
+
+            <string>display-image</string>
+
+            <key>needs-shine</key>
+
+            <true />
+
+            <key>url</key>
+
+
+            <string>https://img.25pp.com/uploadfile/app/icon/20181215/1544832523582863.jpg@140w_140h</string>
+
+
+          </dict>
+
+        </array>
+
+        <key>metadata</key>
+
+        <dict>
+
+          <key>bundle-identifier</key>
+
+          <string>com.QQ.xclx</string>
+
+          <key>bundle-version</key>
+
+          <string>1.0</string>
+
+          <key>kind</key>
+
+          <string>software</string>
+
+          <key>subtitle</key>
+
+          <string>qitao</string>
+
+          <key>title</key>
+
+
+
+          <string>携程旅行</string>
+
+
+
+        </dict>
+
+      </dict>
+
+    </array>
+
+  </dict>
+
+</plist>
