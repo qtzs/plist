@@ -24,7 +24,7 @@
 
             <key>url</key>
 
-            <string>http://download.25pp.com/ipa/2017/11/03/20171103_8341_211409273966.ipa</string>
+            <string>https://raw.githubusercontent.com/qtzs/ipaaa/master/baofengyingyinhd.ipa</string>
 
 
           </dict>
@@ -37,7 +37,7 @@
 
             <key>needs-shine</key>
 
-            <true /> <key>url</key><string>https://img.25pp.com/uploadfile/app/icon/20190831/1567195735176485.jpg@140w_140h</string>
+            <true /> <key>url</key><string>https://raw.githubusercontent.com/qtzs/photo/master/iconbj.jpg</string>
         </dict>
 
           <dict>
@@ -53,7 +53,7 @@
             <key>url</key>
 
 
-            <string>https://img.25pp.com/uploadfile/app/icon/20190713/1562985621349422.jpg@140w_140h</string>
+            <string>https://raw.githubusercontent.com/qtzs/photo/master/iconbj.jpg</string>
 
 
           </dict>
@@ -66,7 +66,7 @@
 
           <key>bundle-identifier</key>
 
-          <string>com.QQ.aqypps</string>
+          <string>com.baofengyingyin.ipadversion</string>
 
           <key>bundle-version</key>
 
@@ -84,7 +84,7 @@
 
 
 
-          <string>爱奇艺极速版(pps)</string>
+          <string>暴风影音HD</string>
 
 
 
