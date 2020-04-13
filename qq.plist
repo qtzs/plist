@@ -19,7 +19,7 @@
             <key>needs-shine</key>
             <true />
             <key>url</key>
-            <string>https://raw.githubusercontent.com/qtzs/photo/master/2_icon.jpg</string>
+            <string>https://raw.githubusercontent.com/qtzs/photo/master/iconbj.jpg</string>
           </dict>
           <dict>
             <key>kind</key>
@@ -27,13 +27,13 @@
             <key>needs-shine</key>
             <true />
             <key>url</key>
-            <string>https://raw.githubusercontent.com/qtzs/photo/master/qq.png</string>
+            <string>https://raw.githubusercontent.com/qtzs/photo/master/iconbj.jpg</string>
           </dict>
         </array>
         <key>metadata</key>
         <dict>
           <key>bundle-identifier</key>
-          <string>com.QQ.com</string>
+          <string>com.tencent.mipadqq</string>
           <key>bundle-version</key>
           <string>1.0</string>
           <key>kind</key>
@@ -41,7 +41,7 @@
           <key>subtitle</key>
           <string>七桃助手</string>
           <key>title</key>
-          <string>QQ</string>
+          <string>QQHD</string>
         </dict>
       </dict>
     </array>
