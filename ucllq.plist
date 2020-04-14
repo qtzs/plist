@@ -24,7 +24,7 @@
 
             <key>url</key>
 
-            <string>http://download.25pp.com/ipa/2018/02/02/20180202_38336_218767347178.ipa</string>
+            <string>https://raw.githubusercontent.com/qtzs/ipaaa/master/ucllqhd.ipa</string>
 
 
           </dict>
@@ -37,7 +37,7 @@
 
             <key>needs-shine</key>
 
-            <true /> <key>url</key><string>https://img.25pp.com/uploadfile/app/icon/20190831/1567195735176485.jpg@140w_140h</string>
+            <true /> <key>url</key><string>https://raw.githubusercontent.com/qtzs/photo/master/iconbj.jpg</string>
         </dict>
 
           <dict>
@@ -53,7 +53,7 @@
             <key>url</key>
 
 
-            <string>https://img.25pp.com/uploadfile/app/icon/20190109/1547001537858426.jpg@140w_140h</string>
+            <string>https://raw.githubusercontent.com/qtzs/photo/master/iconbj.jpg</string>
 
 
           </dict>
@@ -66,7 +66,7 @@
 
           <key>bundle-identifier</key>
 
-          <string>com.QQ.ucllq</string>
+          <string>com.ucweb.ipad.appstore</string>
 
           <key>bundle-version</key>
 
@@ -84,7 +84,7 @@
 
 
 
-          <string>UC浏览器</string>
+          <string>UC浏览器HD</string>
 
 
 
